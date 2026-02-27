@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-native-kotlin",
+    "description": "Kotlin and Android native plugin development agents",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["kotlin", "java"],
+    "contents": {
+        "skills": [],
+        "agents": ["kotlin-plugin"],
+        "hooks": []
+    },
+    "tags": ["kotlin", "android", "jetpack-compose"]
+}
